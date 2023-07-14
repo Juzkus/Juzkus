@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<a href="https://chess.com/member/juzkus"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png" height="23px"/></a>
-<a href="https://dev.to/juzkus"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="23px" /></a>
-
+<a href="https://chess.com/member/juzkus"><img src="https://img.shields.io/badge/dynamic/json?label=Chess.com - Juzkus&color=81b64c&labelColor=312e2b&query=$.status&url=http://juzk.us/api/chess.php" height="23px"/></a>
 <!--
 **Juzkus/Juzkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
