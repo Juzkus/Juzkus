@@ -1,3 +1,4 @@
+<img src="https://www.chess.com/share/user/Juzkus"/>
 <a href="https://chess.com/member/juzkus"><img src="https://img.shields.io/badge/Chess.com-Juzkus-81b64c?labelColor=312e2b&style=for-the-badge"></a>
 <!--<a href="https://chess.com/member/juzkus"><img src="https://img.shields.io/badge/dynamic/json?label=Chess.com - Juzkus&color=81b64c&labelColor=312e2b&query=$.status&url=http://juzk.us/api/chess.php&style=for-the-badge" data-canonical-src="https://img.shields.io/badge/dynamic/json?label=Chess.com - Juzkus&color=81b64c&labelColor=312e2b&query=$.status&url=http://juzk.us/api/chess.php&style=for-the-badge" height="23px"/></a>-->
 <!--
